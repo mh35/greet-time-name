@@ -1,2 +1,2 @@
-# greet-time-name
-Replace Howdy to time-specific message.
+# Greet Time Name
+Greet name with time-specific message.

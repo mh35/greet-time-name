@@ -1,0 +1,45 @@
+# Copyright (C) 2016 Greet Time Name
+# This file is distributed under the same license as the Greet Time Name package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Greet Time Name 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/greet-time-name\n"
+"POT-Creation-Date: 2016-02-13 10:13:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: greet-time-name.php:38
+msgid "Good morning, %s"
+msgstr ""
+
+#: greet-time-name.php:41
+msgid "Good afternoon, %s"
+msgstr ""
+
+#: greet-time-name.php:44
+msgid "Good evening, %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Greet Time Name"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mh35/greet-time-name"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Replace greeting message with time message."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mh35"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/mh35/"
+msgstr ""
